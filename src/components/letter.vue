@@ -26,11 +26,11 @@ import {mapState} from 'vuex'
     z-index: -200;
     opacity: 0;
     color: #000000;
-    padding-left: 5vw;
-    padding-right: 5vw;
-    padding-top: 2vh;
-    width: 90vw;
-    height: 98vh;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    padding-top: 1vh;
+    width: 92vw;
+    height: 99vh;
     text-align: left;
     background-image: url(../../public/123.png);
     overflow: hidden;
