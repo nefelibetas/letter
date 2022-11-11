@@ -38,5 +38,6 @@ import {mapState} from 'vuex'
     font-size: 28px;
     font-family: '华文行楷';
     transition: opacity 5s;
+    overflow: scroll;
 }
 </style>
